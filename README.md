@@ -19,10 +19,11 @@ This repository contains various Power BI examples, including data modeling, DAX
 
 # ✨Getting Started
 
-To explore the Power BI examples, download or clone the repository and open the .pbix files using Power BI Desktop.
+1. To explore the Power BI examples, download or clone the repository and open the .pbix files using Power BI Desktop.
 
    ```bash
    git clone https://github.com/sidou06/Power-BI.git
+   
 
 # ✨Power BI Examples
 
